@@ -1,5 +1,5 @@
 ## Emmy Nominations 2024 [^1]
-
+![Alt text](https://github.com/danil386/Emmy-Nominees-2024/blob/main/FXs-Shogun-021624-tout-06ea44df816f4bbfbc4a3b158d75d048.jpg)
 #### Best drama series
 * The Crown
 * Fallout
