@@ -1,5 +1,5 @@
 ## Emmy Nominations 2024 [^1]
-![Alt text](https://github.com/danil386/Emmy-Nominees-2024/blob/main/FXs-Shogun-021624-tout-06ea44df816f4bbfbc4a3b158d75d048.jpg)
+![Alt text](https://github.com/danil386/Emmy-Nominees-2024/blob/main/FXs-Shogun-021624-tout-06ea44df816f4bbfbc4a3b158d75d048.jpg "Hiroyuki Sanada as Lord Toranga in FX's 'Shōgun'")
 #### Best drama series
 * The Crown
 * Fallout
@@ -58,6 +58,8 @@
 * Maya Rudolph – Loot
 * Jean Smart – Hacks
 * Kristen Wiig – Palm Royale
+
+![Alt text](https://github.com/danil386/Emmy-Nominees-2024/blob/main/ripley_pa_104_081921_00545_r_custom-65a44c127fd8338465f17f1367c82916a7b39aea.jpg "Andrew Scott as Tom Ripley in 'Ripley'")
 
 #### Lead actor in a limited or anthology series
 * Matt Bomer – Fellow Travelers
