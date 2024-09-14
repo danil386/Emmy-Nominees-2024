@@ -166,6 +166,8 @@
 * Saul Metzstein – Slow Horses
 * Salli Richardson-Whitfield – Winning Time: The Rise of the Lakers Dynasty
 
+![Alt text](https://github.com/danil386/Emmy-Nominees-2024/blob/main/THE_BEAR_204_0699R.jpg "Ramy Youssef on set of 'The Bear' season 2, directing episode 4 'Honeydew'")
+
 #### Directing for a comedy series
 * Randall Einhorn – Abbott Elementary
 * Christopher Storer – The Bear
