@@ -118,12 +118,12 @@
 * Meryl Streep – Only Murders in the Building
 
 #### Supporting actor in a limited or anthology series
-* Jonathan Bailey – Fellow Travelers
+* **Jonathan Bailey – Fellow Travelers**
 * Robert Downey Jr – The Sympathizer
 * Tom Goodman-Hill – Baby Reindeer
 * John Hawkes – True Detective: Night Country
 * Lamorne Morris – Fargo
-* **Lewis Pullman – Lessons In Chemistry**
+* Lewis Pullman – Lessons In Chemistry
 * Treat Williams – Feud: Capote vs The Swans
 
 #### Supporting actress in a limited or anthology series
